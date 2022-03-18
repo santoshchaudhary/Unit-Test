@@ -1,0 +1,21 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Santosh",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^6.3.17",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-coverage": "^2.2.0",
+    "karma-jasmine": "^4.0.1",
+    "puppeteer": "^13.5.1"
+  }
+}
